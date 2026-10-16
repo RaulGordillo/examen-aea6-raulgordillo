@@ -1,7 +1,5 @@
-name: Comprovacions
-
+nname: Comprovacions
 on: push
-
 jobs:
   comprovar:
     runs-on: ubuntu-latest
